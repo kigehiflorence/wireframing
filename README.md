@@ -11,3 +11,9 @@ Wireframing is a crucial step in the design process,serving as a blueprint or sk
 - Enables easy modification
 - Guides design process
 - Focusses on functionality and user experience
+
+## Key Elements of a Wireframe
+- Layout Structure:Defines arrangement of elements on the page.
+- Navigation:Shows how users will move through the site.
+- Content placement:Indicates where texts,images and other content will be placed.
+- Functionality:Outlines key functionalities and interactions.
